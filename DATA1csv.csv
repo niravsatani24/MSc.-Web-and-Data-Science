@@ -1,0 +1,11 @@
+_name,_prefix,_uri
+Organizational,org,http://www.xes-standard.org/org.xesext
+MetaData_Organization,meta_org,http://www.xes-standard.org/meta_org.xesext
+MetaData_Time,meta_time,http://www.xes-standard.org/meta_time.xesext
+Time,time,http://www.xes-standard.org/time.xesext
+Lifecycle,lifecycle,http://www.xes-standard.org/lifecycle.xesext
+Semantic,semantic,http://www.xes-standard.org/semantic.xesext
+MetaData_LifeCycle,meta_life,http://www.xes-standard.org/meta_life.xesext
+Concept,concept,http://www.xes-standard.org/concept.xesext
+MetaData_Concept,meta_concept,http://www.xes-standard.org/meta_concept.xesext
+MetaData_General,meta_general,http://www.xes-standard.org/meta_general.xesext
